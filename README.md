@@ -1,4 +1,4 @@
-# Data-Visualization-and-Storytelling-Elevate-Lab-Task-4
+#  SQL for Data Analysis-Elevate-Lab-Task-4
 # 🚖 OLA Data Analyst Project
 
 This project presents data-driven insights from Ola ride booking data using SQL queries. It explores booking patterns, customer preferences, ride statistics, and payment behavior to support business intelligence decisions.
